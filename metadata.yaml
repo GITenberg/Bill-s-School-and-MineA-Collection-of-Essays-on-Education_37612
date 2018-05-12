@@ -1,0 +1,30 @@
+_repo: Bill-s-School-and-MineA-Collection-of-Essays-on-Education_37612
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Franklin, William S. (William Suddards)
+    aliases:
+    - Franklin, William Suddards
+    - Franklin, W. S. (William Suddards)
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '38949'
+    url: http://www.gutenberg.org/2009/agents/38949
+description: ''
+gutenberg_issued: '2011-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37612'
+  lccn: unk81011753
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education'
+- !lcc 'LB'
+title: 'Bill''s School and Mine: A Collection of Essays on Education'
+url: http://www.gutenberg.org/ebooks/37612
